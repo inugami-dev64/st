@@ -1,3 +1,4 @@
+.cache
 *.o
 st
 *.rej
